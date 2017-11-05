@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# My awesome org
+# ARGO Civic Data Marketplace
 
 * Project1
 * Project2
